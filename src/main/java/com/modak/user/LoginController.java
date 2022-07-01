@@ -1,5 +1,6 @@
 package com.modak.user;
 
 public class LoginController {
-   dsjvldvjlkdjlkj
+   
+	private String dsjvldvjlkdjlkj;
 }
